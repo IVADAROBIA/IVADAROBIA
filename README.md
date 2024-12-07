@@ -21,7 +21,7 @@ I'm currently enhancing my expertise in:
 
 ## ⚡ Fun Fact
 
-Beyond the professional realm, I'm an avid **runner** and **cyclist**, always exploring new trails and routes to fuel my passion for adventure and fitness.
+Beyond the professional realm, I'm an avid **runner** and **cyclist**, always exploring new trails and routes to fuel my passion for adventure.
 
 ## 📫 Let's Connect
 
