@@ -1,6 +1,6 @@
 # Hi there, I'm Ivan Rodríguez Restrepo 👋
 
-Welcome to my GitHub profile! I'm a **Business and Marketing Analyst** with over six years of experience in crafting business strategies that drive growth and optimize performance. My journey has led me to collaborate with hundreds of brands, delivering impactful solutions in marketing strategy, e-commerce, and business development.
+Welcome to my GitHub profile! I'm a **Business and Marketing Analyst** with +5 years of experience in crafting business strategies that drive growth and optimize performance. My journey has led me to collaborate with hundreds of brands, delivering impactful solutions in marketing strategy, e-commerce, and business development.
 
 ## 🔭 Current Focus
 
