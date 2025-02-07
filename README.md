@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm a **Business and Marketing Analyst** with +5 y
 I'm currently enhancing my expertise in:
 - **Data Analytics and Business Intelligence**
 - **SQL and Python Programming**
-- **Data Visualization Tools**: Tableau, Power BI
-- **Marketing Analytics**
+- **Data Visualization & Dashboarding** (Power BI, Tableau)
+- **Marketing & Customer Analytics** for strategic decision-making
 
 ## 🌱 Ongoing Projects
 
@@ -17,18 +17,19 @@ I'm currently enhancing my expertise in:
 
 ## 💼 Professional Background
 
-- **Founder** of a full-service marketing and photography studio specializing in e-commerce solutions.
+- Founder & Business Consultant → Led a **Marketing & photography studio**, helping 300+ brands with **e-commerce & product launch strategies**.
 - Successfully collaborated with over 300 brands to execute high-impact product launch strategies.
 
 ## ⚡ Fun Fact
 
-Beyond the professional realm, I'm an avid **runner** and **cyclist**, always exploring new trails and routes to fuel my passion for adventure.
+As a **runner & cyclist**, I love tracking performance data to improve endurance and race strategy.  
+I apply **data analytics principles to measure training progress, optimize workouts, and improve performance**—because **data isn't just for business, it's for life!**
 
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/ivan-rodriguez-restrepo/)
 
-Feel free to explore my repositories and reach out if you're interested in collaborating on data-driven projects or just want to connect!
+📂 **Explore my repositories** to check out my latest data analytics projects! Let's collaborate on **business intelligence, marketing analytics, and e-commerce insights!** 🚀
 
 <!---
 IVADAROBIA/IVADAROBIA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
