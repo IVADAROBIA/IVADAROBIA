@@ -29,7 +29,7 @@ I apply **data analytics principles to measure training progress, optimize worko
 
 - [LinkedIn](https://www.linkedin.com/in/ivan-rodriguez-restrepo/)
 
-📂 **Explore my repositories** to check out my latest data analytics projects! Let's collaborate on **business intelligence, marketing analytics, and e-commerce insights!** 🚀
+📂 **Explore my [repositories](https://github.com/IVADAROBIA/Data_projects)** to check out my latest data analytics projects! Let's collaborate on **business intelligence, marketing analytics, and e-commerce insights!** 🚀
 
 <!---
 IVADAROBIA/IVADAROBIA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
