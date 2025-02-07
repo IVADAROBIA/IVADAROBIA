@@ -8,6 +8,7 @@ I'm currently enhancing my expertise in:
 - **Data Analytics and Business Intelligence**
 - **SQL and Python Programming**
 - **Data Visualization Tools**: Tableau, Power BI
+- **Marketing Analytics**
 
 ## 🌱 Ongoing Projects
 
