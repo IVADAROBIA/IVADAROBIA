@@ -5,10 +5,8 @@ Welcome to my GitHub profile! I'm a **Business and Marketing Analyst** with +5 y
 ## 🔭 Current Focus
 
 I'm currently enhancing my expertise in:
-- **Data Analytics and Business Intelligence**
-- **SQL and Python Programming**
-- **Data Visualization & Dashboarding** (Power BI, Tableau)
-- **Marketing & Customer Analytics** for strategic decision-making
+
+- **R and Python Programming**
 
 ## 🌱 Ongoing Projects
 
