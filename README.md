@@ -48,7 +48,7 @@ Browse my [repositories](https://github.com/IVADAROBIA/Data_projects) to see rea
 
 - [LinkedIn](https://www.linkedin.com/in/ivan-rodriguez-restrepo/)
 
-I'm always open to collaborating on projects that blend **business intelligence, marketing analytics, and data-powered strategy! 🚀
+I'm always open to collaborating on projects that blend **business intelligence, marketing analytics, and data-powered strategy!** 🚀
 
 <!---
 IVADAROBIA/IVADAROBIA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
