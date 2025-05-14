@@ -35,7 +35,7 @@ This project bridges my creative marketing background with growing expertise in 
 
 - Currently expanding my BI & data analytics skills through formal training, hands-on projects, and real-world application.
 
-📂 **Explore My Work**
+##📂 Explore My Work
 
 Browse my [repositories](https://github.com/IVADAROBIA/Data_projects) to see real and portfolio-based projects in:
 
