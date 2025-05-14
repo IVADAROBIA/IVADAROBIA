@@ -13,6 +13,7 @@ I'm currently enhancing my expertise in:
 ## 🌱 Ongoing Projects
 
 **Image Dataset for AI & Computer Vision**
+
 I’m curating a structured, high-quality dataset of 1,000+ white-background product images, captured through years of consulting at IDR Studios. The goal is to make the dataset AI-ready for use in computer vision and generative AI applications. Key features include:
 
 - Detailed metadata and classification  
